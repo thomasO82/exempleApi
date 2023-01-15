@@ -1,0 +1,15 @@
+{
+  "name": "apiusers",
+  "version": "1.0.0",
+  "description": "ceci est un projet didacticiel de node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thomas oliver",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.8.3"
+  }
+}
